@@ -11,3 +11,10 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.banner {
+  height: 45vh;
+  width: 100vw;
+  background: rgb(120,194,255);
+  background: linear-gradient(42deg, rgba(120,194,255,1) 0%, rgba(159,212,78,0.2091211484593838) 100%);
+}
